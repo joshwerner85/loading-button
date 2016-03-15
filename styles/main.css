@@ -1,0 +1,22 @@
+body {
+  background-color: black; }
+
+#button {
+  background: red;
+  color: white;
+  margin: 7% 41%;
+  width: 200px;
+  height: 100px;
+  font-size: xx-large;
+  border: none; }
+
+#button:hover {
+  background: blue;
+  color: white;
+  margin: 7% 41%;
+  width: 200px;
+  height: 100px;
+  font-size: xx-large;
+  border: none; }
+
+/*# sourceMappingURL=main.css.map */
